@@ -120,7 +120,8 @@ pd.DataFrame({
 
 TODO: Replace the image below with your own.
 
-![download.png](attachment:download.png)
+
+![download](https://github.com/Isaakkamau/Predict_Bike_Sharing_Demand_with_AutoGluon/assets/95031660/bec01c94-27a5-4e60-9add-f3584f299170)
 
 
 
@@ -128,7 +129,8 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![download%20%281%29.png](attachment:download%20%281%29.png)
+
+![download (2)](https://github.com/Isaakkamau/Predict_Bike_Sharing_Demand_with_AutoGluon/assets/95031660/5daf381f-d898-44e7-bcfa-03e79eb1caa8)
 
 
 
