@@ -1,6 +1,8 @@
 # Predict_Bike_Sharing_Demand_with_AutoGluon
 This project is part of Udacity's AWS Machine Learning Engineering Nanodegree. With a heavy immersion into AWS EC2
 
+MY SUBMISSION REVIEW:
+
 ![Audit-project-submission](https://github.com/Isaakkamau/Predict_Bike_Sharing_Demand_with_AutoGluon/assets/95031660/e8c626d4-ea2f-46fb-b186-2ee6ea335e2b)
 
 At the end of this project, I achieved several outcomes and gained valuable knowledge and skills. Here's what I learned and accomplished:
